@@ -8,7 +8,7 @@ Flask app, which predict stock price of any given company using Linear, Quadrati
 
 Make sure you have latest version of docker (Docker version 19.03.1) and docker-compose (docker-compose version 1.24.1)
 
-    $ git clone https://github.com/ssawant/node-image-classifier.git
+    $ git clone https://github.com/ssawant/stock-analysis-webapp.git
     $ cd stock-analysis-webapp
     $ docker-compose up
 

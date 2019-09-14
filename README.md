@@ -1,4 +1,4 @@
-#Stock Price Prediction using ML 
+# Stock Price Prediction using ML 
 
 Flask app, which predict stock price of any given company using Linear, Quadratic and KNN regression model
 
